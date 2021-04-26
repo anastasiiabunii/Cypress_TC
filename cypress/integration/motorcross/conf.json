@@ -1,0 +1,28 @@
+{
+    "COMMON":{
+        
+        "title" : "Motorcross variables and params",
+        "email" : " homosapiens@gmail.com ",
+        "telnumber" : "535123456",
+        "name" : "Homo",
+        "surname" : "Sapiens",
+        "company_name" : "MyCompany",
+        "street" : "plac Defilad 1",
+        "postnumber" : "00-901",
+        "city" : "Warsaw",
+        "country" : "Poland"
+        
+    },
+    "PL": {
+        "baseUrl": "https://www.24mx.pl/",
+        "env": {
+          "desc": "PolishDomain"
+        }
+      },
+    "IE": {
+        "baseUrl": "https://www.24mx.ie/",
+        "env": {
+          "desc": "IrelandDomain"
+        }
+      }
+}
